@@ -1,0 +1,1 @@
+java -jar wiremock-standalone-2.10.1.jar --port 3000 --root-dir mock-data --proxy-all="http://localhost:8080" --record-mappings  --verbose
