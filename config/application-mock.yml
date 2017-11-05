@@ -1,6 +1,0 @@
-spring:
-  profiles: mock
-
-server:
-  address: localhost
-  port: 8082

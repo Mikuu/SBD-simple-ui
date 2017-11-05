@@ -1,6 +1,0 @@
-spring:
-  profiles: local, defaul
-
-server:
-  address: localhost
-  port: 8081
