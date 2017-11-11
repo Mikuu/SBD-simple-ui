@@ -20,6 +20,7 @@ apply plugin: 'groovy'
 apply plugin: 'java'
 apply plugin: 'idea'
 apply plugin: 'org.springframework.boot'
+apply from: 'gradle/mock-server.gradle'
 
 jar {
     baseName = 'SBD-simple-ui'
