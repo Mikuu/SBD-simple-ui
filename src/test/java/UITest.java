@@ -30,6 +30,8 @@ public class UITest {
 
         element = driver.findElement(By.cssSelector(departTitle));
         assertEquals(element.getText(), "出发地");
+
+        driver.quit();
     }
 
 }
