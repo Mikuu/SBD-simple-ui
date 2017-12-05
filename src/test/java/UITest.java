@@ -9,7 +9,7 @@ import static org.junit.Assert.assertEquals;
 
 public class UITest {
     private String chromeDriverProperty = "webdriver.chrome.driver";
-    private String chromeDriverExcutable = "/Users/ariman/Software/selenium/chromedriver/chromedriver";
+    private String chromeDriverExcutable = "/Users/Biao/Software/Selenium/chromedriver/chromedriver";
 
     private String ticketsTab = "#indexLeftBR > div.slideTxtBox > div.hd > ul > li.on";
     private String ticketsIframe = "#indexLeftBR > div.slideTxtBox > div.tempWrap > div > ul:nth-child(1) > li > iframe";

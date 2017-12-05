@@ -1,1 +1,1 @@
-java -jar wiremock-standalone-2.10.1.jar --port 3000 --root-dir mock-data --verbose
+java -jar wiremock-standalone-2.5.0.jar --port 3000 --root-dir mock-data --verbose
